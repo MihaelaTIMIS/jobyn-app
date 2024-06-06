@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobyn-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobyn-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobyn-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobyn-front-native" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jobyn-ionic" vcs="Git" />
+  </component>
+</project>

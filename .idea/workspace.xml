@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de55b5a9-b030-4011-8ea6-ca59d59f6f5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bash_profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-angular" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-angular/.zshrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-back" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-front-native" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn-ionic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobyn/ios/Runner.xcworkspace/xcuserdata/ella.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zshrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-angular/src/app/helpers/jwt.interceptor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-angular/src/app/helpers/jwt.interceptor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-angular/src/app/services/offer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-angular/src/app/services/offer.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-back/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-back/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-flutter/lib/homepage/homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-flutter/lib/homepage/homepage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-ionic/capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-ionic/capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-ionic/ios/App/App.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-ionic/ios/App/App.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-ionic/ios/App/App/capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-ionic/ios/App/App/capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-ionic/src/app/pages/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-ionic/src/app/pages/home/home.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobyn-ionic/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jobyn-ionic/src/environments/environment.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QFIfgHfh61rodReAVpVdFITHLB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ella/developement/JobYN"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de55b5a9-b030-4011-8ea6-ca59d59f6f5e" name="Changes" comment="" />
+      <created>1684943008819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684943008819</updated>
+    </task>
+    <servers />
+  </component>
+</project>
